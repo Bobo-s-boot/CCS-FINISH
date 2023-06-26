@@ -20,7 +20,7 @@ img {
   margin-bottom: 50px;
   width: 750px;
   position: relative;
-  background: white;
+  background: green;
   height: 450px;
 }
 
@@ -31,6 +31,107 @@ img {
 
 .task33 {
   border-image-repeat: repeat;
+}
+
+.task3 {
+ background: linear-gradient(yellow, red);
+}
+
+.task4 {
+  background: radial-gradient(#3f87a6,#ebf8e1,#f69d3c);
+}
+
+.task5 {
+  background: conic-gradient(from 3.1416rad at 10% 50%,#e66465,#9198e5);
+}
+
+.task6 {
+  background-repeat: repeat-x;
+}
+
+.task7 {
+  background-repeat: repeat-y;
+}
+
+.task8 {
+  background-repeat: no-repeat;
+}
+
+.task9 {
+  background-repeat: space;
+}
+
+.task10 {
+  background-repeat: round;
+}
+
+.task11 {
+  background-attachment: fixed;
+}
+
+.task12 {
+  background-attachment: scroll;
+}
+
+.task13 {
+  background-attachment:local;
+}
+
+.task14 {
+  background-position: center;
+}
+
+.task15 {
+  background-position: top;
+}
+
+.task16 {
+  background-position: bottom;
+}
+
+.task17 {
+  background-position: left;
+}
+
+.task18 {
+  background-position: right;
+}
+
+.task19 {
+  background-position: 100px;
+}
+
+.task20 {
+  background-position: auto;
+}
+
+.task21 {
+  background-size:600px;
+}
+
+.task22 {
+  background-size: 50%;
+}
+
+.task23 {
+  background-size: contain;
+}
+
+.task24 {
+  background-size: cover;
+}
+
+.task25 {
+  background-size:60%;
+}
+
+.task26 {
+  background-size: 57%;
+}
+
+.task27 {
+  background-color: white;
+  background-image: url();  
 }
 
 .item {
